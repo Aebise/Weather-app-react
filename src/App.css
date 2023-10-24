@@ -1,0 +1,10 @@
+div {
+  display: grid;
+  padding-left: 40px;
+}
+input {
+  float: left;
+}
+li {
+  text-align: left;
+}
